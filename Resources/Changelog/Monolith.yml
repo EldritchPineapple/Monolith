@@ -13596,3 +13596,14 @@ Entries:
   id: 1504
   time: '2025-11-01T15:44:30.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2510
+- author: Ilya246
+  changes:
+    - type: Tweak
+      message: Public Transport Shuttle now waits 3 times less.
+    - type: Tweak
+      message: Trade Mall's scrapyard console is now much easier to find.
+    - type: Tweak
+      message: Grifty's is now a PTS destination.
+  id: 1505
+  time: '2025-11-01T15:45:21.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2535
