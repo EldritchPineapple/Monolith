@@ -13755,3 +13755,12 @@ Entries:
   id: 1522
   time: '2025-11-07T19:16:41.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2555
+- author: Ilya246
+  changes:
+    - type: Fix
+      message: >-
+        Fixed magdumping a mech weapon bricking the mech weapon if the mech has
+        a reactor.
+  id: 1523
+  time: '2025-11-07T19:17:51.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2549
