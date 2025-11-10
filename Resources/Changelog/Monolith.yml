@@ -13931,3 +13931,13 @@ Entries:
   id: 1541
   time: '2025-11-10T07:08:57.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2514
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        Colossus touchups: lizards got fresh air, kitchen and bar have distro,
+        freezer now has proper preservation temperatures, and disposals
+        hopefully doesn't flush into sec now.
+  id: 1542
+  time: '2025-11-10T07:13:26.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2584
