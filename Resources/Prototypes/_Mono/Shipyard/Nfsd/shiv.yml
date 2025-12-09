@@ -13,7 +13,7 @@
   - Salvage
   - Science
   engine:
-  - Z-Pinch
+  - Plasma
 
 - type: gameMap
   id: Shiv

@@ -4,8 +4,8 @@ meta:
   engineVersion: 264.0.0
   forkId: ""
   forkVersion: ""
-  time: 12/08/2025 19:50:05
-  entityCount: 567
+  time: 12/09/2025 18:54:41
+  entityCount: 569
 maps: []
 grids:
 - 1
@@ -40,7 +40,7 @@ entities:
   - uid: 1
     components:
     - type: MetaData
-      name: grid
+      name: Shiv
     - type: Transform
       rot: -0.001099107787013054 rad
       pos: 0.4589827,5.673299
@@ -510,6 +510,7 @@ entities:
     - type: ShipGridLock
       locked: False
     - type: Roof
+      data: {}
     - type: ThermalSignature
       storedHeat: 1.6160249
     - type: GridCleanupState
@@ -1014,7 +1015,7 @@ entities:
   - uid: 79
     components:
     - type: Transform
-      pos: -0.5,18.5
+      pos: 0.5,17.5
       parent: 1
   - uid: 80
     components:
@@ -1230,6 +1231,16 @@ entities:
     components:
     - type: Transform
       pos: 1.5,4.5
+      parent: 1
+  - uid: 568
+    components:
+    - type: Transform
+      pos: 0.5,18.5
+      parent: 1
+  - uid: 569
+    components:
+    - type: Transform
+      pos: 0.5,19.5
       parent: 1
 - proto: CableHV
   entities:
@@ -3275,20 +3286,20 @@ entities:
   - uid: 422
     components:
     - type: Transform
-      rot: 3.141592653589793 rad
-      pos: -4.5,10.5
+      rot: 1.5707963267948966 rad
+      pos: -4.5,11.5
       parent: 1
   - uid: 423
     components:
     - type: Transform
-      rot: 1.5707963267948966 rad
-      pos: -2.5,18.5
+      rot: -1.5707963267948966 rad
+      pos: 3.5,16.5
       parent: 1
   - uid: 424
     components:
     - type: Transform
-      rot: -1.5707963267948966 rad
-      pos: 3.5,16.5
+      rot: 1.5707963267948966 rad
+      pos: -2.5,18.5
       parent: 1
 - proto: PoweredlightOrange
   entities:
